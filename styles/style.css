@@ -10,6 +10,7 @@ h2{
     font-size: x-large;
     /* font-style: inherit; */
     font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
 }
 div{
     background-color: aquamarine;
@@ -19,4 +20,8 @@ div{
     border-style: dotted ;
     margin: 10px;
     padding: 10px;
+}
+li{
+   text-align:start ;
+   text-transform: capitalize;
 }
